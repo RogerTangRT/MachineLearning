@@ -16,6 +16,7 @@ st.line_chart(data)
 
 # Para executar:
 # python -m streamlit run "G:\Meu Drive\Cursos\Python\MachineLearning\0803b.py"
+# python -m streamlit run C:\Users\Roger\Documents\GitHub\RogerTangRT\Colab\MachineLearning\0803b.py
 
 'barr graph'
 st.bar_chart(data)

@@ -4,6 +4,11 @@ import numpy as np
 import time
 import matplotlib.pyplot as plt
 
+# Para executar:
+# python -m streamlit run "G:\Meu Drive\Cursos\Python\MachineLearning\0804b.py"
+# python -m streamlit run C:\Users\Roger\Documents\GitHub\RogerTangRT\Colab\MachineLearning\0804b.py
+
+
 'Growing Line Chart'
 # Create a clean placeholder container
 chart_placeholder = st.empty()

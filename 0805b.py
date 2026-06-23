@@ -7,6 +7,7 @@
 
 # Para executar:
 # python -m streamlit run "G:\Meu Drive\Cursos\Python\MachineLearning\0805b.py"
+# python -m streamlit run C:\Users\Roger\Documents\GitHub\RogerTangRT\Colab\MachineLearning\0805b.py
 
 import pandas as pd
 import numpy as np

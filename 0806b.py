@@ -3,11 +3,13 @@
 # pip install streamlit
 # pip install matplotlib
 # pip install seaborn
+# python -m pip install scikit-learn
 
 # Create statistical charts
 
 # Para executar:
 # python -m streamlit run "G:\Meu Drive\Cursos\Python\MachineLearning\0806b.py"
+# python -m streamlit run C:\Users\Roger\Documents\GitHub\RogerTangRT\Colab\MachineLearning\0806b.py
 
 import streamlit as st
 import seaborn as sns
